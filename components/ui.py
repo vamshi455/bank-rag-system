@@ -5,13 +5,8 @@ from datetime import datetime, timedelta
 import pandas as pd
 
 def setup_page_config():
-    """Configure Streamlit page settings"""
-    st.set_page_config(
-        page_title="🏦 Bank Statement RAG",
-        page_icon="🏦",
-        layout="wide",
-        initial_sidebar_state="expanded"
-    )
+    """Page config is handled in main app - this is just a placeholder"""
+    pass
 
 def add_custom_css():
     """Add custom CSS styling"""
