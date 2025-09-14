@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "bank-rag-system",
+			"path": "."
+		},
+		{
+			"name": "financial-doc-search",
+			"path": "../financial-doc-search"
+		}
+	],
+	"settings": {}
+}
